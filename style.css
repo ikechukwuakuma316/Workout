@@ -1,0 +1,39 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+.toptext {
+    font-size: 130px;
+    font-weight: 800;
+    line-height: 130px;
+}
+
+.firstbutton {
+    background-color: #EF8964;
+    position: absolute;
+    width: 180px;
+    height: 110px;
+    left: 1152px;
+    top: 279px;
+    border-radius: 12px;
+}
+.secondbutton {
+    background-color: #303030;
+    Width: 206px;
+    Height: 96px;
+    top: 668px;
+    Left: 737px;
+    border-radius: 12px;
+}
+
+.thirdbutton {
+    background-color: #7A29DC;
+    Width: 193px;
+    Height: 98px;
+    top: 768px;
+    Left: 1203px;
+    border-radius: 12px;
+}
+
