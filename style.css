@@ -1,23 +1,12 @@
-body::before {
-    display: block;
-    content: '';
-    height: 60px;
-}
-
 .toptext {
-    font-size: 130px;
-    font-weight: 800;
-    line-height: 130px;
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 100px;
+    
 }
 
-.firstbutton {
+.first-button {
     background-color: #EF8964;
-    position: absolute;
-    width: 180px;
-    height: 110px;
-    left: 1152px;
-    top: 279px;
-    border-radius: 12px;
+    border-radius: 12px;  
 }
-
 
