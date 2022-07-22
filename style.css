@@ -19,21 +19,5 @@ body::before {
     top: 279px;
     border-radius: 12px;
 }
-.secondbutton {
-    background-color: #303030;
-    Width: 206px;
-    Height: 96px;
-    top: 668px;
-    Left: 737px;
-    border-radius: 12px;
-}
 
-.thirdbutton {
-    background-color: #7A29DC;
-    Width: 193px;
-    Height: 98px;
-    top: 768px;
-    Left: 1203px;
-    border-radius: 12px;
-}
 
