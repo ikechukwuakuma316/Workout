@@ -1,0 +1,47 @@
+.toptext {
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 100px;
+    
+}
+@media (min-width: 1200px) { 
+    .first-button {
+        position: relative;
+        background-color: #EF8964;
+        border-radius: 10px; 
+        /* left: 35%; 
+        bottom: 70%; */
+        transform: translate(15rem);
+        top: -25rem;
+    }
+    
+    .second-button {
+        position: relative;
+        background-color: #EF8964;
+        border-radius: 10px; 
+        /* left: 35%; 
+        bottom: 70%; */
+        transform: translate(-8rem);
+        top: -13rem; 
+        
+    }
+    
+    .third-button {
+        position: relative;
+        background-color: #EF8964;
+        border-radius: 12px;  
+        transform: translate(5rem);
+       top: -10rem !important;
+    }
+ }
+
+
+.main-btn{
+    background-color: #EF8964;
+    color: white;  
+}
+
+.card-arrow{
+    float: right;
+    left: 20px;
+}
