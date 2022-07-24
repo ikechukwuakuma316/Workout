@@ -1,9 +1,3 @@
-.toptext {
-    font-size: 100px;
-    font-weight: 700;
-    line-height: 100px;
-    
-}
 @media (min-width: 1200px) { 
     .first-button {
         position: relative;
@@ -34,6 +28,27 @@
        top: -10rem !important;
     }
  }
+
+
+ @media (min-width: 414px) {
+    .toptext{
+        padding: 30px;
+        font-size: 50px;
+        font-weight: 800;
+        text-align: center;
+    }
+ }
+
+ 
+ @media (min-width: 1200px) {
+    .toptext{
+        font-size: 100px;
+        font-weight: 800;
+        line-height: 80px;
+        padding-left: -20px;
+    }
+ }
+
 
 
 .main-btn{
